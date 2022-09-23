@@ -6,7 +6,7 @@ Questa repository contiene tutti i notebook utilizzati nel corso delle attività
 - *training*: Colab Notebooks relativi alle reti e ai i metodi di riduzione delle bande testati.
 - *informative_band_analysis_matlab*: contiene il Colab Notebook e il MATLAB Live Script usati per compiere l'analisi delle bande più informative.
 - *Dev_Board_Mini_Inference*: Colab Notebook per la conversione dei modelli in formato tflite e due script python per l'inferenza. Sono salvati anche alcuni valori di preprocessing da importare durante l'inferenza.
-- *TF_models* e *TF_lite_models*: migliori modelli addestrati.
+- *TF_models* e *TF_lite_models*: modelli addestrati con PCA 3 bande + EfficientNet-LiteB0mod. Sono quelli che hanno ottenuto il punteggio migliore.
 
 
 
